@@ -6,7 +6,7 @@
 
 <details>
 <summary>Quetion</summary>
-![](image/1_getting_started/1614492814951.png)
+![quetion](./image/1_getting_started/1614492814951.png)
 </details>
 
 <details>
