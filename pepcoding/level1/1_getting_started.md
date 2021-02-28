@@ -7,12 +7,14 @@
 <details>
 <summary>Explanation</summary>
 
-    for (int div = 2; div * div <= n; div++) {
-                        if (n % div == 0) {
-                            flag = true;
-                            break;
-                        }
-                    }
+```Java
+for (int div = 2; div * div <= n; div++) {
+    if (n % div == 0) {
+        flag = true;
+        break;
+    }
+}
+```
 
 </details>
 
