@@ -5,7 +5,16 @@
 ## Prime
 
 <details><summary>Explanation</summary>
-- hello
+
+```java
+for (int div = 2; div * div <= n; div++) {
+                    if (n % div == 0) {
+                        flag = true;
+                        break;
+                    }
+                }
+```
+
 </details>
 
 ```java
