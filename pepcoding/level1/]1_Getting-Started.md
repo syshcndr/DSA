@@ -1,17 +1,18 @@
 # Getting Started
 
-[Prime](#prime)
+[Prime 645 - 27:00](#prime)
 
-## Prime
+## Is Prime 645-27:00
 
 <details>
-<summary>Quetion</summary>
-![quetion](./image/1_getting_started/1614492814951.png)
+<summary>Question</summary>
+<img src = "./image/1_getting_started/1614492814951.png" >
+<img src = "image/1_getting_started/1614493145026.png" >
 </details>
 
 <details>
 <summary>Approach</summary>
-- divide with 2 if the remainder is 0 then prime otherwise not prime
+- divide with 2 if the remainder is 0 then prime otherwise not prime<br>
 - optimization: instead of 
 </details>
 
