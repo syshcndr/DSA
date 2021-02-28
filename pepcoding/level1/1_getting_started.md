@@ -4,16 +4,17 @@
 
 ## Prime
 
-<details><summary>Explanation</summary>
+<details>
+<summary>Explanation</summary>
 
-```java
+<code>
 for (int div = 2; div * div <= n; div++) {
                     if (n % div == 0) {
                         flag = true;
                         break;
                     }
                 }
-```
+</code>
 
 </details>
 
